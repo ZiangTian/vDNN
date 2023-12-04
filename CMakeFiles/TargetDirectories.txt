@@ -1,0 +1,7 @@
+/workspace/vDNN/CMakeFiles/neural_net_vdnn.out.dir
+/workspace/vDNN/CMakeFiles/mnist_test.out.dir
+/workspace/vDNN/CMakeFiles/alexnet_test.out.dir
+/workspace/vDNN/CMakeFiles/vgg_test.out.dir
+/workspace/vDNN/CMakeFiles/slow_conv.out.dir
+/workspace/vDNN/CMakeFiles/edit_cache.dir
+/workspace/vDNN/CMakeFiles/rebuild_cache.dir
